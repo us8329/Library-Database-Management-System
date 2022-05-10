@@ -1,5 +1,6 @@
 # Library-Management-System
 
+## TEAM MEMBERS - UTKARSH SINHA , MALLIKA SHARDA , RITIKA GUPTA 
 Hi!, welcome to my repository. The **Library Management System (LMS)** is developed for transforming manual offline workload into online automatic system. It contains all the main 
 features such as adding and managing students, books with efficiently maintaining their data. It also contains other security features such as **Captcha Verification** and 
 **Password Encryption**. This is a complete LMS with all the necessary functionalties. It also provides feature to **generate report** and **manage fine**.
